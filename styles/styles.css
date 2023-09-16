@@ -1,0 +1,15 @@
+/**
+ * File: styles.css
+ * Project: NAME OF THE PROJECT
+ * Description : NAME OF THE PROJECT
+ * Version: 1.0.0
+ * URL: https://bluewindlab.net
+ * Author: Mahbub Alam Khan (BlueWindLab)
+ * Last Update: xx-xx-xxxx
+ **/
+body {
+  width: 900px;
+  margin: 24px auto;
+  background: #edf0f2;
+  color: #333333;
+}
